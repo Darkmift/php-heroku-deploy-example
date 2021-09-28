@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(211, 152, 152);
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+  font-size: 5rem;
+  color: white;
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+p {
+  background-color: rgb(66, 68, 184);
+  padding: 1rem;
+  border-radius: 50px;
+}
